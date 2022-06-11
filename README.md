@@ -1,4 +1,4 @@
-### Iurus is a Multifunctional Web Recon & Vulnerability Scanner Tool and incredibly fast crawler that can find multiple vulnerabilitIES and gather information.
+### Iurus is a Multifunctional Web Recon & Vulnerability Scanner Tool and incredibly fast crawler that can find multiple vulnerabilities and gathering information.
 
 
 ### Check for vulnerabilities
