@@ -55,10 +55,15 @@ sed -i -e 's/\r$//' install.sh iurus.sh
 ### Example
 
 ./iurus.sh -d target.com -a {Full Scan}
+
 ./iurus.sh -d target.com -p {Passive reconnaissance}
+
 ./iurus.sh -d target.com -a {Active reconnaissance}
+
 ./iurus.sh -d target.com -m {Massive recon}
+
 ./iuruw.sh -d target.com -r {Active and passive reconnaissance}
+
 ./iurus.sh -d target.com -v {Check Vulnerabilities only}
 
 --------------------------------
